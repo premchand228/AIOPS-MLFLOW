@@ -1,5 +1,5 @@
 # AIOPS-MLFLOW sample demo
-“*” This demo is to understand basic loggiging mechanism exist in MLFLOw
+"*" This demo is to understand basic loggiging mechanism exist in MLFLOw
 
 “*” We tried to see how mlflow logs various metrics such as parameters and metrics which we can use to compare multiple experiments.
 
